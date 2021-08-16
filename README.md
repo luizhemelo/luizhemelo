@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### Github stats
+#### Github stats
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizhemelo&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizhemelo&hide=jupyter%20notebook,matlab&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
