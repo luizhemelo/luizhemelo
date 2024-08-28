@@ -1,4 +1,4 @@
-<h1> Hi there 👨🏻‍💻, I'm Luiz! </h1>
+<h1>Hi there, I'm Luiz! 👨🏻‍💻</h1>
  
 ![Followers](https://img.shields.io/github/followers/luizhemelo?style=social) ![](https://komarev.com/ghpvc/?username=luizhemelo&style=flat-square&color=ff69b4)
 
