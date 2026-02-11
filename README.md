@@ -4,7 +4,7 @@
 
 ```python
 def AboutMe():
-  office =    'I work as a Data Scientist at Kunumi. 💚'
+  office =    'I work as a Research Engineer at Kunumi. 💚'
   schooling = 'I am Computer Science Master student at Federal University of Minas Gerais (UFMG), Brazil. 📚'
   bio =       'Enthusiastic about Data Science, Artificial Inteligence, Machine Learning and Large Language Models (LLMs). ✨'
   return office, schooling, bio
